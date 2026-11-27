@@ -1,6 +1,5 @@
- 
-# ❤️ Heart Disease Cleveland – Data Analysis & Dashboard
-
+  
+# Heart Disease Cleveland Dashborad
 ## 📌 Project Overview
 This project focuses on Exploratory Data Analysis (EDA) and interactive visualization of the Heart Disease Cleveland dataset. The goal is to explore patient health information and identify patterns related to heart disease.
 
@@ -45,20 +44,5 @@ This project focuses on Exploratory Data Analysis (EDA) and interactive visualiz
 - `heart.png` – Dashboard illustration
 - `requirements.txt` – Required Python libraries
 - `.gitignore` – Files excluded from Git tracking
-
-## ▶️ How to Run the Project
-
-Install the required libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit application:
-
-```bash
-streamlit run app.py
-```
-
-## 👩‍💻 Author
-Created as a Data Analysis and Visualization project.
+ 
+ 
